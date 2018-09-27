@@ -12,7 +12,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## My Contribution
 
-I created and styled the jukebox component which allows users to search for an artist using a music database api which will return albums and then tracks for the selected album. Users can then select a track to be added to our Ciderhouses in house playlist. Added tracks our saved in our database. 
+I created and styled the jukebox component which allows users to search for an artist using a music database api which will return albums and then tracks for the selected album. Users can then select a track to be added to our Ciderhouses in house playlist. Added tracks are saved in our database. 
 
 I also created the easter egg game hidden in the site. It's a simple catch the droplet in the pint glass game coded in typescript and inspired by tetris. 
 
